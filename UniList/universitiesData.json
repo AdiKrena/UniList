@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1001,
+        "name": "Universitas Negeri Surabaya",
+        "address": "Jl. Lidah Wetan",
+        "description": "The State University of Surabaya or Surabaya State University is a public university in Indonesia. It is one of the top universities in Indonesia.",
+        "founded": 1964,
+        "imageName": "unesa"
+    },
+    {
+        "id": 1002,
+        "name": "Institut Teknologi Sepuluh Nopember",
+        "address": "Jl. Lidah Wetan",
+        "description": "Institut Teknologi Sepuluh Nopember is an Indonesian public technological university located in Surabaya, East Java, with a strong emphasis on scientific, engineering, and vocational education system.",
+        "founded": 1957,
+        "imageName": "its"
+    },
+    {
+        "id": 1003,
+        "name": "Universitas Pembangunan Nasional “Veteran” Jawa Timur",
+        "address": "Jl. Rungkut Madya No.1",
+        "description": "UPN \"Veteran\" East Java, located in Surabaya with a population of 5,000,000 people, is one of the State Universities in Indonesia which was established on July 5, 1959. UPN \"Veteran\" in East Java is a very large institution with 20,000 students from various provinces in Indonesia as well as foreign students.",
+        "founded": 1959,
+        "imageName": "upn"
+    },
+    {
+        "id": 1004,
+        "name": "University of Surabaya",
+        "address": "Jl. Raya Kalirungkut",
+        "description": "University of Surabaya is a university in Rungkut, Surabaya, East Java, Indonesia. UBAYA is the successor to Trisakti University of Surabaya which was founded in 1966. Its name was changed to the University of Surabaya in 1968. Construction on the campus began on 11 March 1968.",
+        "founded": 1968,
+        "imageName": "ubaya"
+    },
+    {
+        "id": 1005,
+        "name": "Petra Christian University",
+        "address": "Jl. Siwalankerto No.121-131",
+        "description": "Petra Christian University, commonly abbreviated as PCU is a major oldest and largest private Christian university in Indonesia, located in the heart of Wonocolo District in Surabaya, East Java - Indonesia.",
+        "founded": 1961,
+        "imageName": "pcu"
+    },
+    {
+        "id": 1006,
+        "name": "Widya Mandala Catholic University",
+        "address": "Jl. Kalisari Selatan No.1 Kalisari",
+        "description": "Widya Mandala Catholic University, commonly abbreviated as WMCU is a major oldest and largest private Roman Catholic university in Indonesia, located in the heart of Darmo District in Surabaya, East Java - Indonesia.",
+        "founded": 1960,
+        "imageName": "ukwms"
+    },
+    {
+        "id": 1007,
+        "name": "Politeknik Elektronika Negeri Surabaya",
+        "address": "Jl. Raya ITS",
+        "description": "The Electronic Engineering Polytechnic Institute of Surabaya is a technical institution located in Indonesia. It serves its community by conducting research to resolve industrial and community problems.",
+        "founded": 1988,
+        "imageName": "pens"
+    },
+    {
+        "id": 1008,
+        "name": "University of Wijaya Kusuma Surabaya",
+        "address": "Jl. Dukuh Kupang XXV No.54",
+        "description": "Wijaya Kusuma University, Surabaya or abbreviated UWKS, is a private university located in Surabaya, Indonesia. The University was established in 1980 by Soenandar Projosoedarmo, Blegoh Soemarto, and Moch. Said. This university has two programs, undergraduate and graduate programs, as well as, eight faculties.",
+        "founded": 1980,
+        "imageName": "uwks"
+    },
+    {
+        "id": 1009,
+        "name": "Politeknik Perkapalan Negeri Surabaya",
+        "address": "Jl. Teknik Kimia",
+        "description": "The development of Shipbuilding Institute of Polytechnic Surabaya or SHIPS can be traced back to 1987 when it was established as a polytechnic by Sepuluh Nopember Institute of Technology The institute was elevated to an independent institute in 2012.",
+        "founded": 1987,
+        "imageName": "ppns"
+    },
+    {
+        "id": 1010,
+        "name": "Universitas Wijaya Putra - Kampus Benowo",
+        "address": "Jl. Pd. Benowo Indah No.1-3",
+        "description": "Wijaya Putra University is a university in Surabaya, Indonesia, established in 1981.",
+        "founded": 1981,
+        "imageName": "uwp"
+    }
+]
